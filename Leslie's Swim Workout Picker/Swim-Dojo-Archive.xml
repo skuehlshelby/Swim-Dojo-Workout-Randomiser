@@ -1,0 +1,1819 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfWorkout xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Workout>
+<Title>Sea Otter</Title>
+<Link>/workouts/2021/3/26/sea-otter</Link>
+<Tags>
+<String>0-1000</String>
+<String>Beginner</String>
+<String>Easy</String>
+<String>Freestyle</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Scaly Foot Snail</Title>
+<Link>/workouts/2018/12/16/hydrothermal-vent-snail</Link>
+<Tags>
+<String>0-1000</String>
+<String>Beginner</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Sea Gooseberry</Title>
+<Link>/workouts/2019/1/31/sea-gooseberry</Link>
+<Tags>
+<String>0-1000</String>
+<String>Beginner</String>
+<String>Easy</String>
+<String>Freestyle</String>
+<String>No Bases</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Christmas Tree Worm</Title>
+<Link>/workouts/2018/12/7/christmas-tree-worm</Link>
+<Tags>
+<String>0-1000</String>
+<String>Beginner</String>
+<String>Freestyle</String>
+<String>No Bases</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Acorn Barnacle</Title>
+<Link>/workouts/2018/9/29/acorn-barnacle</Link>
+<Tags>
+<String>0-1000</String>
+<String>1000-2000</String>
+<String>Beginner</String>
+<String>Breaststroke</String>
+<String>No Bases</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Chimera</Title>
+<Link>/workouts/2018/9/8/chimera</Link>
+<Tags>
+<String>0-1000</String>
+<String>Beginner</String>
+<String>Easy</String>
+<String>No Bases</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Cushion Star</Title>
+<Link>/workouts/2018/9/5/cushion-star</Link>
+<Tags>
+<String>0-1000</String>
+<String>Beginner</String>
+<String>Freestyle</String>
+<String>No Bases</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Leopard Wrasse</Title>
+<Link>/workouts/2018/9/3/lbssda5uga81ko60xslt6093qqsxk1</Link>
+<Tags>
+<String>0-1000</String>
+<String>Beginner</String>
+<String>Freestyle</String>
+<String>Short course</String>
+<String>Sprint</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Marine Toad</Title>
+<Link>/workouts/2018/8/26/marine-toad</Link>
+<Tags>
+<String>0-1000</String>
+<String>Beginner</String>
+<String>Freestyle</String>
+<String>No Bases</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Bubblegum Coral</Title>
+<Link>/workouts/2018/8/23/bubblegum-coral</Link>
+<Tags>
+<String>0-1000</String>
+<String>Beginner</String>
+<String>No Bases</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Atlantic Wolffish</Title>
+<Link>/workouts/2018/8/14/atlantic-wolffish</Link>
+<Tags>
+<String>0-1000</String>
+<String>Beginner</String>
+<String>Triathlon</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Hawksbill Turtle</Title>
+<Link>/workouts/2018/8/14/hawksbill-turtle</Link>
+<Tags>
+<String>0-1000</String>
+<String>Beginner</String>
+<String>Triathlon</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Banded Butterfly Fish</Title>
+<Link>/workouts/2018/8/6/banded-butterfly-fish</Link>
+<Tags>
+<String>0-1000</String>
+<String>Beginner</String>
+<String>No Bases</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Red-legged Cormorant</Title>
+<Link>/workouts/2018/8/6/red-legged-cormorant</Link>
+<Tags>
+<String>0-1000</String>
+<String>Beginner</String>
+<String>Breaststroke</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Sand Dollar</Title>
+<Link>/workouts/2018/7/31/sand-dollar</Link>
+<Tags>
+<String>0-1000</String>
+<String>Beginner</String>
+<String>Freestyle</String>
+<String>No Bases</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Gentoo Penguin</Title>
+<Link>/workouts/2018/7/30/8vv8mco2smbliyz0jkl1mt51c8rbyv</Link>
+<Tags>
+<String>0-1000</String>
+<String>Backstroke</String>
+<String>Beginner</String>
+<String>Easy</String>
+<String>No Bases</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Flashlight Fish</Title>
+<Link>/workouts/2018/7/21/flashlight-fish</Link>
+<Tags>
+<String>0-1000</String>
+<String>Beginner</String>
+<String>Freestyle</String>
+<String>No Bases</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>White Shrimp</Title>
+<Link>/workouts/2018/6/23/white-shrimp</Link>
+<Tags>
+<String>0-1000</String>
+<String>Beginner</String>
+<String>Stroke</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Frilled Shark</Title>
+<Link>/workouts/2018/5/30/frilled-shark</Link>
+<Tags>
+<String>0-1000</String>
+<String>1000-2000</String>
+<String>Beginner</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Barrel Sponge</Title>
+<Link>/workouts/2018/5/30/barrel-sponge</Link>
+<Tags>
+<String>0-1000</String>
+<String>Beginner</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Whiptail Gulper</Title>
+<Link>/workouts/2018/5/30/whiptail-gulper</Link>
+<Tags>
+<String>0-1000</String>
+<String>Beginner</String>
+<String>Freestyle</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Skipjack Tuna</Title>
+<Link>/workouts/2018/5/30/skipjack-tuna</Link>
+<Tags>
+<String>0-1000</String>
+<String>Beginner</String>
+<String>Freestyle</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Krill</Title>
+<Link>/workouts/2018/5/11/krill</Link>
+<Tags>
+<String>0-1000</String>
+<String>Beginner</String>
+<String>No Bases</String>
+<String>Sprint</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Emperor Shrimp</Title>
+<Link>/workouts/2018/5/11/emperor-shrimp</Link>
+<Tags>
+<String>0-1000</String>
+<String>Beginner</String>
+<String>No Bases</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Barnacle</Title>
+<Link>/workouts/2018/5/11/barnacle</Link>
+<Tags>
+<String>0-1000</String>
+<String>Beginner</String>
+<String>Easy</String>
+<String>No Bases</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Anchovy</Title>
+<Link>/workouts/2018/5/11/anchovy</Link>
+<Tags>
+<String>0-1000</String>
+<String>Beginner</String>
+<String>Easy</String>
+<String>No Bases</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Angelfish</Title>
+<Link>/workouts/2018/5/6/angelfish</Link>
+<Tags>
+<String>0-1000</String>
+<String>1000-2000</String>
+<String>Beginner</String>
+<String>Easy</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Seahorse</Title>
+<Link>/workouts/2018/3/15/seahorse</Link>
+<Tags>
+<String>0-1000</String>
+<String>Beginner</String>
+<String>Easy</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Sea Bunny</Title>
+<Link>/workouts/2021/2/22/sea-bunny</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Beginner</String>
+<String>No Bases</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Marrus Orthocanna</Title>
+<Link>/workouts/2021/2/16/marrus-orthocanna</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Beginner</String>
+<String>Freestyle</String>
+<String>No Bases</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Red Spotted Blenny</Title>
+<Link>/workouts/2021/2/16/red-spotted-blenny</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Beginner</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Squirrelfish</Title>
+<Link>/workouts/2021/2/16/squirrelfish</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Beginner</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Clownfish</Title>
+<Link>/workouts/2019/9/19/clownfish</Link>
+<Tags>
+<String>1000-2000</String>
+<String>2000-3000</String>
+<String>Intermediate</String>
+<String>Stroke</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Hairy Frogfish</Title>
+<Link>/workouts/2019/9/30/hairy-frogfish</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Beginner</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Sea Pen</Title>
+<Link>/workouts/2019/9/30/sea-pen</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Beginner</String>
+<String>Distance</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Anglerfish</Title>
+<Link>/workouts/2019/9/18/anglerfish</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Beginner</String>
+<String>IM</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Juvenile Emperor Angelfish</Title>
+<Link>/workouts/2019/9/19/juvenile-emperor-angelfish</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Beginner</String>
+<String>IM</String>
+<String>Intermediate</String>
+<String>Stroke</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Lizard Island Octopus</Title>
+<Link>/workouts/2018/12/16/lizard-island-octopus</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Beginner</String>
+<String>Freestyle</String>
+<String>No Bases</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Leafy Seadragon</Title>
+<Link>/workouts/2018/12/16/leafy-seadragon</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Beginner</String>
+<String>No Bases</String>
+<String>Triathlon</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Squidworm</Title>
+<Link>/workouts/2018/12/7/squidworm</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Beginner</String>
+<String>Freestyle</String>
+<String>No Bases</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Argentine Shortfin Squid</Title>
+<Link>/workouts/2018/9/29/argentine-shortfin-squid</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Breaststroke</String>
+<String>Intermediate</String>
+<String>No Bases</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Caribbean Spiny Lobster</Title>
+<Link>/workouts/2018/9/29/caribbean-spiny-lobster</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Beginner</String>
+<String>Freestyle</String>
+<String>No Bases</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Gray Seal</Title>
+<Link>/workouts/2018/9/25/gray-seal</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Beginner</String>
+<String>Freestyle</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Bicolored Parrotfish</Title>
+<Link>/workouts/2018/9/12/bicolored-parrotfish</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Beginner</String>
+<String>Freestyle</String>
+<String>No Bases</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>African Basslet</Title>
+<Link>/workouts/2018/9/3/african-basslet</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Beginner</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+<String>Open Water</String>
+<String>Triathlon</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Australian Angelshark</Title>
+<Link>/workouts/2018/9/3/wcv9j8m7dg3ic9qbya1cnkwxij1kzw</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Beginner</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+<String>No Bases</String>
+<String>Pull</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Yellow Headed Jawfish</Title>
+<Link>/workouts/2018/9/1/yellow-headed-jawfish</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Beginner</String>
+<String>No Bases</String>
+<String>Technique</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Atlantic Cod</Title>
+<Link>/workouts/2018/8/26/atlantic-cod</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Beginner</String>
+<String>Freestyle</String>
+<String>Triathlon</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Green Turtle</Title>
+<Link>/workouts/2018/8/16/green-turtle</Link>
+<Tags>
+<String>1000-2000</String>
+<String>IM</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Juan Fernandez Fur Seal</Title>
+<Link>/workouts/2018/8/14/juan-fernandez-fur-seal</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Dumbo Octopus</Title>
+<Link>/workouts/2018/8/14/dumbo-octopus</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Harp Seal</Title>
+<Link>/workouts/2018/8/14/harp-seal</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Beginner</String>
+<String>No Bases</String>
+<String>Triathlon</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Flatback Turtle</Title>
+<Link>/workouts/2018/7/30/flatback-turtle</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Beginner</String>
+<String>Breaststroke</String>
+<String>No Bases</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Chambered Nautilus</Title>
+<Link>/workouts/2018/7/24/chambered-nautilus</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Beginner</String>
+<String>Breaststroke</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Wahoo (Find Your Base - Intermediate)</Title>
+<Link>/workouts/2018/6/24/wahoo-find-your-base-intermediate</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Bluebanded Goby</Title>
+<Link>/workouts/2018/6/24/bluebanded-goby</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Intermediate</String>
+<String>Sprint</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Red King Crab</Title>
+<Link>/workouts/2018/6/24/red-king-crab</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Intermediate</String>
+<String>Stroke</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Tiger Prawn</Title>
+<Link>/workouts/2018/6/23/tiger-prawn</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Beginner</String>
+<String>Freestyle</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Granulated Sea Star</Title>
+<Link>/workouts/2018/6/23/cushion-star</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Porcupine Ray</Title>
+<Link>/workouts/2018/5/20/porcupine-ray</Link>
+<Tags>
+<String>1000-2000</String>
+<String>IM</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Atlantic Trumpetfish</Title>
+<Link>/workouts/2018/5/15/sappitjvcyb3pw7hmagslk9wq2da7f</Link>
+<Tags>
+<String>1000-2000</String>
+<String>Beginner</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Enypniastes Eximia</Title>
+<Link>/workouts/2021/3/29/enypniastes-eximia</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Advanced</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Brittle Star</Title>
+<Link>/workouts/2021/3/29/brittle-star</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Intermediate</String>
+<String>Stroke</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Coconut Octopus</Title>
+<Link>/workouts/2021/3/29/coconut-octopus</Link>
+<Tags>
+<String>2000-3000</String>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>IM</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Telescope Octopus</Title>
+<Link>/workouts/2021/3/1/telescope-octopus</Link>
+<Tags>
+<String>2000-3000</String>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+<String>Mid Distance</String>
+<String>Short course</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Polkdot Nudibranch</Title>
+<Link>/workouts/2021/2/22/polkdot-nudibranch</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Intermediate</String>
+<String>Stroke</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Clown Frogfish</Title>
+<Link>/workouts/2021/2/22/clown-frogfish</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Advanced</String>
+<String>IM</String>
+<String>Intermediate</String>
+<String>Short course</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Red Handfish</Title>
+<Link>/workouts/2019/9/30/red-handfish</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Advanced</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+<String>Mid Distance</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Threadfin Butterflyfish</Title>
+<Link>/workouts/2019/9/19/threadfin-butterflyfish</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Curreri Workouts</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Regal Tang</Title>
+<Link>/workouts/2019/9/19/regal-tang</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Advanced</String>
+<String>Butterfly</String>
+<String>Stroke</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Venus Flytrap Anemone</Title>
+<Link>/workouts/2019/2/23/venus-flytrap-anemone</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Butterfly</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Mandarinfish</Title>
+<Link>/workouts/2019/9/19/mandarinfish</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Butterfly</String>
+<String>Intermediate</String>
+<String>Stroke</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Napoleon Wrasse</Title>
+<Link>/workouts/2018/12/16/napoleon-wrasse</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Backstroke</String>
+<String>Intermediate</String>
+<String>No Bases</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Pycnogonid Sea Spider</Title>
+<Link>/workouts/2018/12/16/pycnogonid-sea-spider</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Beginner</String>
+<String>Intermediate</String>
+<String>Open Water</String>
+<String>Triathlon</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Sea Angel</Title>
+<Link>/workouts/2018/12/7/sea-angel</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+<String>No Bases</String>
+<String>Triathlon</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Crossota Norvegica Jellyfish</Title>
+<Link>/workouts/2018/12/7/crossota-norvegica-jellyfish</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Intermediate</String>
+<String>No Bases</String>
+<String>Triathlon</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Acadian Redfish</Title>
+<Link>/workouts/2018/12/7/acadian-redfish</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Adorned Wrasse</Title>
+<Link>/workouts/2018/10/18/adorned-wrasse</Link>
+<Tags>
+<String>2000-3000</String>
+<String>IM</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Yellow Tube Sponge</Title>
+<Link>/workouts/2018/9/29/yellow-tube-sponge</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Horseshoe Crab</Title>
+<Link>/workouts/2018/9/29/horseshoe-crab</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+<String>Mid Distance</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Gigantic Triton</Title>
+<Link>/workouts/2018/9/25/t964hgyq91j0e9hi2ufkrk4h1bol4z</Link>
+<Tags>
+<String>2000-3000</String>
+<String>IM</String>
+<String>Intermediate</String>
+<String>Stroke</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Crown of Thorns Starfish</Title>
+<Link>/workouts/2018/9/8/crown-of-thorns-starfish</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Common Torpedo</Title>
+<Link>/workouts/2018/9/5/common-torpedo</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+<String>Triathlon</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Tripod Spiderfish</Title>
+<Link>/workouts/2018/9/1/9fsqx0bljc414s1mkgamrx6grv5o3f</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Intermediate</String>
+<String>Short course</String>
+<String>Stroke</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Flounder</Title>
+<Link>/workouts/2018/8/23/zap8brri9507dtydighy17afi5l1ay</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Butterfly</String>
+<String>Intermediate</String>
+<String>No Bases</String>
+<String>Stroke</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Little Auk</Title>
+<Link>/workouts/2018/8/6/little-auk</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+<String>Sprint</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Oarfish (Find Your Base - Advanced)</Title>
+<Link>/workouts/2018/6/24/oarfish-find-your-base-advanced</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Advanced</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Beluga Sturgeon</Title>
+<Link>/workouts/2018/6/24/beluga-sturgeon</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Southern Blue-Ringed Octopus</Title>
+<Link>/workouts/2018/6/24/southern-blue-ringed-octopus</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Spanish Dancer</Title>
+<Link>/workouts/spanish-dancer</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Advanced</String>
+<String>Distance</String>
+<String>IM</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Lion Fish</Title>
+<Link>/workouts/lion-fish</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Intermediate</String>
+<String>Sprint</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Siamese Fighting Fish</Title>
+<Link>/workouts/siamese-fighting-fish</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Intermediate</String>
+<String>Steady State</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Hermit Crab</Title>
+<Link>/workouts/hermit-crab</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Advanced</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Lions Mane Jellyfish</Title>
+<Link>/workouts/lions-mane-jellyfish</Link>
+<Tags>
+<String>2000-3000</String>
+<String>Intermediate</String>
+<String>Sprint</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Ravioli Starfish</Title>
+<Link>/workouts/2021/9/16/ravioli-starfish</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>Freestyle</String>
+<String>Mid Distance</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Pacific Spiny Lumpsucker</Title>
+<Link>/workouts/2021/9/13/pacific-spiny-lumpsucker</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>Freestyle</String>
+<String>Mid Distance</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Northern Stargazer</Title>
+<Link>/workouts/2019/9/30/northern-stargazer</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+<String>Mid Distance</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Axolotl</Title>
+<Link>/workouts/2021/2/22/axolotl</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>IM</String>
+<String>Intermediate</String>
+<String>Stroke</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Bobtail Squid</Title>
+<Link>/workouts/2021/3/1/bobtail-squid</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>Sprint</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Leaf Slug</Title>
+<Link>/workouts/2021/2/22/leaf-slug</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Red Lipped Batfish</Title>
+<Link>/workouts/2021/2/16/red-lipped-batfish</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>Curreri Workouts</String>
+<String>Distance</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Arctic Hydromedusa</Title>
+<Link>/workouts/2021/2/16/arctic-hydromedusa</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>IM</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Japanese Spider Crab</Title>
+<Link>/workouts/2021/2/16/japanese-spider-crab</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>Curreri Workouts</String>
+<String>Distance</String>
+<String>Freestyle</String>
+<String>Hard</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Porcupinefish</Title>
+<Link>/workouts/2021/2/16/porcupinefish</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>Curreri Workouts</String>
+<String>Freestyle</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Icefish</Title>
+<Link>/workouts/2019/10/2/icefish</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>Curreri Workouts</String>
+<String>Distance</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Coelancanth</Title>
+<Link>/workouts/2019/9/18/coelancanth</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>Curreri Workouts</String>
+<String>Distance</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+<String>Steady State</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Banggai Cardinalfish</Title>
+<Link>/workouts/2019/9/19/banggai-cardinalfish</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>Curreri Workouts</String>
+<String>IM</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Symphysodon Discus</Title>
+<Link>/workouts/2019/9/19/symphysodon-discus</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>Curreri Workouts</String>
+<String>Stroke</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Blobfish</Title>
+<Link>/workouts/2019/2/23/blobfish</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>Distance</String>
+<String>Freestyle</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Sixgill Shark</Title>
+<Link>/workouts/2019/9/18/sixgill-shark</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>Curreri Workouts</String>
+<String>Freestyle</String>
+<String>Hard</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Bioluminescent Octopus</Title>
+<Link>/workouts/2018/12/7/bioluminescent-octopus</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>IM</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>American Lobster</Title>
+<Link>/workouts/2018/12/7/american-lobster</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>Freestyle</String>
+<String>Sprint</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Giant Clam</Title>
+<Link>/workouts/2018/12/7/giant-clam</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>Curreri Workouts</String>
+<String>Distance</String>
+<String>Freestyle</String>
+<String>Hard</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Abbot's Booby</Title>
+<Link>/workouts/2018/8/26/bei5t9fg1va11u6cw7of82bvmlb2y0</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>IM</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Stone Triggerfish</Title>
+<Link>/workouts/2018/9/1/stone-triggerfish</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>Freestyle</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Kemp's Ridley Turtle</Title>
+<Link>/workouts/2018/8/26/kemps-ridley-turtle</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Barndoor Skate</Title>
+<Link>/workouts/2018/8/26/barndoor-skate</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+<String>Mid Distance</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Adelie Penguin</Title>
+<Link>/workouts/2018/8/16/adelie-penguin</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>IM</String>
+<String>Intermediate</String>
+<String>Stroke</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Atlantic Bluefin Tuna</Title>
+<Link>/workouts/2018/8/16/atlantic-bluefin-tuna</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>Distance</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Atlantic Puffin</Title>
+<Link>/workouts/2018/8/14/atlantic-puffin</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>Freestyle</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Common Fangtooth</Title>
+<Link>/workouts/2018/6/24/common-fangtooth</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Humboldt Squid</Title>
+<Link>/workouts/2018/6/14/humboldt-squid</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Blue Glaucus</Title>
+<Link>/workouts/2018/6/13/blue-glaucus</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Mako Shark</Title>
+<Link>/workouts/2018/5/20/mako-shark</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>Hard</String>
+<String>Sprint</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Bearded Seal</Title>
+<Link>/workouts/2018/5/15/bearded-seal</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>IM</String>
+<String>Intermediate</String>
+<String>Stroke</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Dottyback</Title>
+<Link>/workouts/2018/4/16/dottyback</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>IM</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Blue Crab</Title>
+<Link>/workouts/2018/4/16/blue-crab</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Intermediate</String>
+<String>Steady State</String>
+<String>Triathlon</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Albacore</Title>
+<Link>/workouts/2018/4/16/albacore</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>IM</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Bottlenose Dolphin</Title>
+<Link>/workouts/2018/4/15/bottlenosed-dolphin</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Advanced</String>
+<String>Steady State</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Wobbegong Shark</Title>
+<Link>/workouts/2018/3/14/wobbegong-shark</Link>
+<Tags>
+<String>3000-4000</String>
+<String>Intermediate</String>
+<String>Sprint</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Munnopis Isopod</Title>
+<Link>/workouts/2021/2/16/munnopis-isopod</Link>
+<Tags>
+<String>4000-5000</String>
+<String>Advanced</String>
+<String>Distance</String>
+<String>Freestyle</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Boxfish</Title>
+<Link>/workouts/2021/2/22/boxfish</Link>
+<Tags>
+<String>4000-5000</String>
+<String>Advanced</String>
+<String>Freestyle</String>
+<String>Sprint</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Smooth Trunkfish</Title>
+<Link>/workouts/2021/2/22/smooth-trunkfish</Link>
+<Tags>
+<String>4000-5000</String>
+<String>Advanced</String>
+<String>IM</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Terrible Claw Lobster</Title>
+<Link>/workouts/2019/9/30/terrible-claw-lobster</Link>
+<Tags>
+<String>4000-5000</String>
+<String>Advanced</String>
+<String>Curreri Workouts</String>
+<String>Stroke</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Sea Pig</Title>
+<Link>/workouts/2019/10/2/sea-pig</Link>
+<Tags>
+<String>4000-5000</String>
+<String>Advanced</String>
+<String>Freestyle</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Halitrephes Massi Jellyfish</Title>
+<Link>/workouts/2019/9/30/halitrephes-massi-jellyfish</Link>
+<Tags>
+<String>4000-5000</String>
+<String>Advanced</String>
+<String>Distance</String>
+<String>Freestyle</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Moorish Idol</Title>
+<Link>/workouts/2019/9/19/moorish-idol</Link>
+<Tags>
+<String>4000-5000</String>
+<String>Advanced</String>
+<String>Freestyle</String>
+<String>Mid Distance</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Ribbon Eel</Title>
+<Link>/workouts/2019/9/30/ribbon-eel</Link>
+<Tags>
+<String>4000-5000</String>
+<String>Advanced</String>
+<String>Freestyle</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Vampire Squid</Title>
+<Link>/workouts/2018/12/7/vampire-squid</Link>
+<Tags>
+<String>4000-5000</String>
+<String>Advanced</String>
+<String>Distance</String>
+<String>Freestyle</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Lysianassoid Amphipod</Title>
+<Link>/workouts/2018/12/16/lysianassoid-amphipod</Link>
+<Tags>
+<String>4000-5000</String>
+<String>Advanced</String>
+<String>Backstroke</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Bobbit Worm</Title>
+<Link>/workouts/2018/12/7/bobbit-worm</Link>
+<Tags>
+<String>4000-5000</String>
+<String>Advanced</String>
+<String>Triathlon</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Pink See Through Fantasia</Title>
+<Link>/workouts/2018/12/7/pink-see-through-fantasia</Link>
+<Tags>
+<String>4000-5000</String>
+<String>Advanced</String>
+<String>Stroke</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Cockscomb Cup Coral</Title>
+<Link>/workouts/2018/10/18/cockscomb-cup-coral</Link>
+<Tags>
+<String>4000-5000</String>
+<String>Advanced</String>
+<String>IM</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Peacock Mantis Shrimp</Title>
+<Link>/workouts/2018/9/29/peacock-mantis-shrimp</Link>
+<Tags>
+<String>4000-5000</String>
+<String>Advanced</String>
+<String>Freestyle</String>
+<String>Sprint</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Rainbow Wrasse</Title>
+<Link>/workouts/2018/9/29/rainbow-wrasse</Link>
+<Tags>
+<String>4000-5000</String>
+<String>Advanced</String>
+<String>Freestyle</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Giant Caribbean Sea Aneome</Title>
+<Link>/workouts/2018/9/25/giant-caribbean-sea-aneome</Link>
+<Tags>
+<String>4000-5000</String>
+<String>Advanced</String>
+<String>IM</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Loggerhead Turtle</Title>
+<Link>/workouts/2018/9/8/loggerhead-turtle</Link>
+<Tags>
+<String>4000-5000</String>
+<String>Advanced</String>
+<String>Freestyle</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Japanese Flying Fish</Title>
+<Link>/workouts/2018/9/1/japanese-flying-fish</Link>
+<Tags>
+<String>4000-5000</String>
+<String>Advanced</String>
+<String>Distance</String>
+<String>Freestyle</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Leopard Seal</Title>
+<Link>/workouts/2018/8/6/leopard-seal</Link>
+<Tags>
+<String>4000-5000</String>
+<String>Advanced</String>
+<String>Freestyle</String>
+<String>Mid Distance</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Acute-Jawed Mullet</Title>
+<Link>/workouts/2018/9/3/acute-jawed-mullet</Link>
+<Tags>
+<String>4000-5000</String>
+<String>Advanced</String>
+<String>Freestyle</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Marine Iguana</Title>
+<Link>/workouts/2018/8/3/marine-iguana</Link>
+<Tags>
+<String>4000-5000</String>
+<String>Advanced</String>
+<String>Stroke</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Ocean Sunfish</Title>
+<Link>/workouts/2018/7/24/dr1lm7ri87m6thcyyn97e8oxc2ucuh</Link>
+<Tags>
+<String>4000-5000</String>
+<String>Advanced</String>
+<String>Freestyle</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Broadclub Cuttlefish</Title>
+<Link>/workouts/2018/7/21/broadclub-cuttlefish</Link>
+<Tags>
+<String>4000-5000</String>
+<String>Advanced</String>
+<String>IM</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Fin Whale</Title>
+<Link>/workouts/2018/7/18/fin-whale</Link>
+<Tags>
+<String>4000-5000</String>
+<String>Advanced</String>
+<String>Freestyle</String>
+<String>Sprint</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Moon Jelly</Title>
+<Link>/workouts/2018/7/17/moon-jelly</Link>
+<Tags>
+<String>4000-5000</String>
+<String>Advanced</String>
+<String>Intermediate</String>
+<String>Recovery</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Chilean Basket Star</Title>
+<Link>/workouts/2018/6/13/chilean-basket-star</Link>
+<Tags>
+<String>4000-5000</String>
+<String>Advanced</String>
+<String>Freestyle</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Dragonfish</Title>
+<Link>/workouts/2018/5/27/dragonfish</Link>
+<Tags>
+<String>4000-5000</String>
+<String>Advanced</String>
+<String>Freestyle</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Spiny Dogfish</Title>
+<Link>/workouts/2018/5/20/spiny-dogfish</Link>
+<Tags>
+<String>4000-5000</String>
+<String>Advanced</String>
+<String>Hard</String>
+<String>Steady State</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Thornback Cowfish</Title>
+<Link>/workouts/2021/2/16/thornback-cowfish</Link>
+<Tags>
+<String>5000+</String>
+<String>Distance</String>
+<String>Freestyle</String>
+<String>Hard</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Cheerleader Crab</Title>
+<Link>/workouts/2021/3/1/cheerleader-crab</Link>
+<Tags>
+<String>5000+</String>
+<String>Advanced</String>
+<String>Distance</String>
+<String>Hard</String>
+<String>Insane</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Coffinfish</Title>
+<Link>/workouts/2021/2/16/coffinfish</Link>
+<Tags>
+<String>5000+</String>
+<String>Advanced</String>
+<String>Distance</String>
+<String>Freestyle</String>
+<String>Hard</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Viperfish</Title>
+<Link>/workouts/2019/9/30/viperfish</Link>
+<Tags>
+<String>5000+</String>
+<String>Distance</String>
+<String>Freestyle</String>
+<String>Hard</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Feather Star</Title>
+<Link>/workouts/2019/10/2/feather-star</Link>
+<Tags>
+<String>5000+</String>
+<String>Advanced</String>
+<String>Freestyle</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Gulper Eel</Title>
+<Link>/workouts/2019/9/18/gulper-eel</Link>
+<Tags>
+<String>5000+</String>
+<String>Advanced</String>
+<String>Butterfly</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Giant Isopod</Title>
+<Link>/workouts/2019/9/18/giant-isopod</Link>
+<Tags>
+<String>5000+</String>
+<String>Advanced</String>
+<String>Curreri Workouts</String>
+<String>Distance</String>
+<String>Freestyle</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Sea Nettles</Title>
+<Link>/workouts/2019/2/23/sea-nettles</Link>
+<Tags>
+<String>5000+</String>
+<String>Advanced</String>
+<String>IM</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Giant Kelp</Title>
+<Link>/workouts/2018/12/7/giant-kelp</Link>
+<Tags>
+<String>5000+</String>
+<String>Advanced</String>
+<String>Distance</String>
+<String>Freestyle</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Bowhead Whale</Title>
+<Link>/workouts/2018/9/11/bowhead-whale</Link>
+<Tags>
+<String>5000+</String>
+<String>Advanced</String>
+<String>Distance</String>
+<String>Freestyle</String>
+<String>Triathlon</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Beluga Whale</Title>
+<Link>/workouts/2018/9/3/beluga-whale</Link>
+<Tags>
+<String>5000+</String>
+<String>Advanced</String>
+<String>Distance</String>
+<String>Freestyle</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Caribbean Reef Octopus</Title>
+<Link>/workouts/2018/8/2/caribbean-reef-octopus</Link>
+<Tags>
+<String>5000+</String>
+<String>Advanced</String>
+<String>Distance</String>
+<String>Triathlon</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Flamingo Tongue</Title>
+<Link>/workouts/2018/8/1/flamingo-tongue</Link>
+<Tags>
+<String>5000+</String>
+<String>Advanced</String>
+<String>Freestyle</String>
+<String>Mid Distance</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Blue Marlin</Title>
+<Link>/workouts/2018/6/23/blue-marlin</Link>
+<Tags>
+<String>5000+</String>
+<String>Advanced</String>
+<String>Freestyle</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Flameback Nudibranch</Title>
+<Link>/workouts/2018/6/13/flameback</Link>
+<Tags>
+<String>5000+</String>
+<String>Advanced</String>
+<String>Distance</String>
+<String>Freestyle</String>
+<String>Hard</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Spinner Shark</Title>
+<Link>/workouts/2018/5/27/spinner-shark</Link>
+<Tags>
+<String>5000+</String>
+<String>Advanced</String>
+<String>Hard</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Megamouth Shark</Title>
+<Link>/workouts/2018/5/20/megamouth-shark</Link>
+<Tags>
+<String>5000+</String>
+<String>Advanced</String>
+<String>Distance</String>
+<String>IM</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Flying Gurnard</Title>
+<Link>/workouts/2021/3/29/flying-gurnard</Link>
+<Tags>
+<String>Advanced</String>
+<String>Distance</String>
+<String>Freestyle</String>
+<String>Pull</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Hourglass Dolphin</Title>
+<Link>/workouts/2018/8/1/hourglass-dolphin</Link>
+<Tags>
+<String>Advanced</String>
+<String>Open Water</String>
+<String>Triathlon</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Bull Shark</Title>
+<Link>/workouts/2018/6/18/bull-shark</Link>
+<Tags>
+<String>Advanced</String>
+<String>Freestyle</String>
+<String>Hard</String>
+<String>Mid Distance</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Basking Shark</Title>
+<Link>/workouts/2018/6/17/basking-shark</Link>
+<Tags>
+<String>Advanced</String>
+<String>Distance</String>
+<String>IM</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Dugong (Sea Cow)</Title>
+<Link>/workouts/2018/4/16/dugong-sea-cow</Link>
+<Tags>
+<String>Advanced</String>
+<String>Distance</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Yellow-Lipped Sea Krait</Title>
+<Link>/workouts/2018/4/15/sea-snake</Link>
+<Tags>
+<String>Advanced</String>
+<String>Freestyle</String>
+<String>Timed Swim</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Pinecone Fish</Title>
+<Link>/workouts/2021/9/13/pinecone-fish</Link>
+<Tags>
+<String>Beginner</String>
+<String>Freestyle</String>
+<String>Steady State</String>
+<String>Timed Swim</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Flapjack Octopus</Title>
+<Link>/workouts/2021/3/1/flapjack-octopus</Link>
+<Tags>
+<String>Beginner</String>
+<String>Freestyle</String>
+<String>No Bases</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Clown Triggerfish</Title>
+<Link>/workouts/2019/9/19/clown-triggerfish</Link>
+<Tags>
+<String>Beginner</String>
+<String>Distance</String>
+<String>Freestyle</String>
+<String>Intermediate</String>
+<String>Recovery</String>
+<String>Steady State</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Guppy (Find Your Base - Beginner)</Title>
+<Link>/workouts/2018/5/10/guppy-find-your-base</Link>
+<Tags>
+<String>Beginner</String>
+<String>Freestyle</String>
+</Tags>
+</Workout>
+<Workout>
+<Title>Sea Wasp</Title>
+<Link>/workouts/2018/9/10/sea-wasp</Link>
+<Tags>
+<String>Butterfly</String>
+<String>Intermediate</String>
+<String>No Bases</String>
+</Tags>
+</Workout>
+</ArrayOfWorkout>

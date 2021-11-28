@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Archive — Swim Dojo.htm" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Archive — Swim Dojo.htm" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.37" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataObjects\DataObjects.csproj" />
+  </ItemGroup>
+
+</Project>
